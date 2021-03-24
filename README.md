@@ -11,7 +11,7 @@
     Here some referencses to learn WEB Development:
     
 <table>
-  <tr>
+
     <th> Num</th>
     <th style="background-color: powderblue">Links</th>
   </tr>
@@ -22,10 +22,7 @@
   <tr>
     <td>Markdown</td>
     <td>  <a href="https://en.wikipedia.org/wiki/Markdown "  style="background-color: powderblue">GO</td>
-  </tr>
-
-</table>
-
+ 
 
 reading-notes by<a href="https://sanaa21.github.io/reading-notess/" style="background-color: powderblue">SANAA ALJUNDI </a>
 
