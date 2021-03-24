@@ -18,8 +18,8 @@
         <tr>
     <td>W3 school</td>
     <td> <a href="https://www.w3schools.com/" style="background-color: powderblue">GO</td>
-    </tr>
-    <tr>
+   
+   
     <td>Markdown</td>
     <td>  <a href="https://en.wikipedia.org/wiki/Markdown "  style="background-color: powderblue">GO</td>
  
